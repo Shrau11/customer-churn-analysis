@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Visualization-matplotlib-green)
+![Status](https://img.Shields.io/badge/Project-Completed-brightgreen)
+
 # customer-churn-analysis
 
 ## Project Overview:
